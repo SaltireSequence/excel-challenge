@@ -102,7 +102,7 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
 
-  ![Images/backers01.png](Images/backers01.png)
+  ![Images/backers01.png](Instructions/Images/backers01.png)
 
 * Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
 
